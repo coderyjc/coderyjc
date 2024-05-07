@@ -4,6 +4,8 @@
 
 - I'm currently a postgraduate student on AnHui University, majoring in **Computer Science**
 
+- My research field is multi-modal re-identification
+
 - You can get in touch with me by email at **coderyjc@163.com**
 
 
