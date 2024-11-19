@@ -1,12 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello+World" alt="Typing SVG" /></a>
 
-## 🥱About me
+## ☀️About me
 
-- I'm currently a postgraduate student on AnHui University, majoring in **Computer Science**
+- Gopher
 
-- My research field is multi-modal re-identification
+- I'm currently a postgraduate student on AnHui University, majoring in **Computer Science**.
 
-- You can get in touch with me by email at **coderyjc@163.com**
+- My research field is large vehicle modal in multi-modal re-identification.
+
+- You can get in touch with me by email at **coderyjc@163.com**.
 
 
 ## 📈Statistics
@@ -27,6 +29,8 @@
 
 **Languages**
 
+
+<code><img height="20" src="assets/go.png" alt="Go" title="Go"></code>
 <code><img height="20" src="assets/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="assets/java.png" alt="Java" title="Java"></code>
 <code><img height="20" src="assets/html.png" alt="HTML" title="HTML"></code>
