@@ -13,22 +13,22 @@
 
 ## 📈Statistics
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=coderyjc" />
+<div style="display: flex; flex-direction: column;align-items: center; gap: 20px; width: 90%; max-width: 800px;">
+    <div style="display: flex;justify-content: center;align-items: center;width: 100%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 800px; border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
+    </div>
+    <div class="bottom" style="display: flex;justify-content: space-between;width: 100%; gap: 20px;">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=coderyjc&theme=dark" alt="GitHub Stats" style="width: 48%;            border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?theme=nightowl&username=coderyjc" style="width: 48%; border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
+    </div>
 </div>
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=coderyjc" />
-<span>  </span>
-</div>
 
-## 🔨Tools
+## 🔨I Code With...
 
 <img align="right" alt="GIF" src="assets/code.gif" width="343" height="220" title="Do what you like, and do it best!"> 
 
 **Languages**
-
 
 <code><img height="20" src="assets/go.png" alt="Go" title="Go"></code>
 <code><img height="20" src="assets/python.png" alt="Python" title="Python"></code>
