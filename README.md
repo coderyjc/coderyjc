@@ -13,16 +13,16 @@
 
 ## 📈Statistics
 
-<div style="display: flex; flex-direction: column;align-items: center; gap: 20px; width: 90%; max-width: 600px;">
-    <div style="display: flex;justify-content: center;align-items: center;width: 100%;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 600px; border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
-    </div>
-    <div class="bottom" style="display: flex;justify-content: space-between;width: 100%; gap: 20px;">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?theme=nightowl&username=coderyjc" style="width: 48%; border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=coderyjc&theme=dark" alt="GitHub Stats" style="width: 48%;            border-radius: 10px;box-shadow: 0 8px 16px rgba(184,164,126,0.15);"/>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 90%; max-width: 600px;">
+        <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 600px; border-radius: 10px; box-shadow: 0 8px 16px rgba(184,164,126,0.15);" />
+        </div>
+        <div class="bottom" style="display: flex; justify-content: center; width: 100%; gap: 20px;">
+            <img height="170px" src="https://github-readme-stats.vercel.app/api?theme=nightowl&username=coderyjc" style="width: 48%; border-radius: 10px; box-shadow: 0 8px 16px rgba(184,164,126,0.15);" />
+        </div>
     </div>
 </div>
-
 
 ## 🔨I Code With...
 
