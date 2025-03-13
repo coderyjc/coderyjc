@@ -13,9 +13,14 @@
 
 ## 📈Statistics
 
-<div style="text-align: center; max-width: 600px; margin: auto;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; border-radius: 10px; box-shadow: 0 8px 16px rgba(184,164,126,0.15);" />
-    <img src="https://github-readme-stats.vercel.app/api?theme=nightowl&username=coderyjc" alt="GitHub Stats" style="width: 48%; border-radius: 10px; box-shadow: 0 8px 16px rgba(184,164,126,0.15); margin-top: 20px;" />
+<div style="display: flex; flex-direction: column;align-items: center; gap: 20px; width: 90%; max-width: 600px;">
+    <div style="display: flex;justify-content: center;align-items: center;width: 100%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 600px;"/>
+    </div>
+    <div class="bottom" style="display: flex;justify-content: space-between;width: 100%; gap: 20px;">
+        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderyjc&theme=nightowl" style="width: 48%;"/>
+        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderyjc&theme=nightowl&utcOffset=8" style="width: 48%;"/>
+    </div>
 </div>
 
 ## 🔨I Code With...
