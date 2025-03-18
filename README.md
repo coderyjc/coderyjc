@@ -13,15 +13,22 @@
 
 ## 📈Statistics
 
-<div style="display: flex; flex-direction: column;align-items: center; gap: 20px; width: 90%; max-width: 600px;">
-    <div style="display: flex;justify-content: center;align-items: center;width: 100%;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 600px;"/>
-    </div>
-    <div class="bottom" style="display: flex;justify-content: space-between;width: 100%; gap: 20px;">
-        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderyjc&theme=nightowl" style="width: 48%;"/>
-        <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderyjc&theme=nightowl&utcOffset=8" style="width: 48%;"/>
-    </div>
-</div>
+<table style="width: 90%; max-width: 600px; margin: 0 auto; text-align: center; border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <td colspan="2" style="border: none;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderyjc&theme=radical" alt="Profile Details" style="width: 100%; max-width: 600px;"/>
+        </td>
+    </tr>
+    <tr style="border: none;">
+        <td style="width: 50%; border: none;">
+            <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderyjc&theme=nightowl" style="width: 100%;"/>
+        </td>
+        <td style="width: 50%; border: none;">
+            <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderyjc&theme=nightowl&utcOffset=8" style="width: 100%;"/>
+        </td>
+    </tr>
+</table>
+
 
 ## 🔨I Use...
 
